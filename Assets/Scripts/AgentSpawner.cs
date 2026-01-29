@@ -3,7 +3,7 @@ using UnityEngine;
 public class AgentSpawner : MonoBehaviour
 {
     public GameObject agentPrefab;
-    public int agentCount = 100;
+    public int agentCount = 40;
 
     void Start()
     {
